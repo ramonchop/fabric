@@ -124,7 +124,7 @@ issue the following command instead:
 
 .. code:: bash
 
- ./startFabric.sh node
+ ./startFabric.sh javascript
 
 .. note:: Be aware that the Node.js chaincode scenario will take roughly 90 seconds
           to complete; perhaps longer. The script is not hanging, rather the
